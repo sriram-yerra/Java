@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 public class SimpleSieveAlgo
 {
     static void sievePrintPrimes(int n)
